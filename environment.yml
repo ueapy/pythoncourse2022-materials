@@ -1,0 +1,19 @@
+name: course2022
+channels:
+   - conda-forge
+dependencies:
+   - python=3.8
+   - ipython
+   - jupyter
+   - spyder
+   - numpy
+   - matplotlib
+   - pandas
+   - xlrd
+   - xlwt
+   - cartopy
+   - owslib
+   - xarray
+   - seaborn
+   - netcdf4
+   - dask
