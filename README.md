@@ -1,4 +1,4 @@
-Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.co.uk) Python Course 2021, organised through the [Collaborative Centre for the Sustainable use of the Seas](https://www.uea.ac.uk/ccsus/) 
+Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.co.uk) Python Course 2022, organised through the [Collaborative Centre for the Sustainable use of the Seas](https://www.uea.ac.uk/ccsus/) 
 
 [Course website](<https://ueapy.github.io/pythoncourse2022-website>)
 
