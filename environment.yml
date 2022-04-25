@@ -5,6 +5,7 @@ dependencies:
    - python=3.8
    - ipython
    - jupyter
+   - jupyterlab
    - spyder
    - numpy
    - matplotlib
