@@ -3,7 +3,7 @@ Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.c
 [Course website](<https://ueapy.github.io/pythoncourse2022-website>)
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)]()
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2022-materials)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2022-materials?urlpath=lab)
 
 ## License
 
